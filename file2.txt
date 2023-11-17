@@ -1,3 +1,5 @@
 public class Water {
-
+	public string (string result){
+		return result;
+	}
 }
